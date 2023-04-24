@@ -13,7 +13,7 @@
 <div>
 
 <h2>Write about how you plan to use what you learned in this lesson to improve your CPT project.</h2>
-<!--<p>ANSWER</p>-->
+<p>This lesson which was focused on CSS has taught me the different ways that one can implement styling into their project to make it look better. Mr. Mortensen mentioned that it is probably not good to do a CPT Project with the terminal as the frontend so it actually looks nice. This might help the graders to see because they will not be bored and they will be interested in your project if you have a good frontend. I can use styling to make the images look nicer with borders, because my program will output an image of the smartphone that is recommended to them.</p>
 
 <hr>
 
@@ -28,7 +28,7 @@
 
 <h1>Customization 2</h1>
 
-<h2>1. What is Bootstrap and how is it useful n developing websites?</h2>
+<h2>1. What is Bootstrap and how is it useful in developing websites?</h2>
 <!--<p>ANSWER</p>-->
 <h2>2. What are the benefits of using Bootstrap in web development compared to css?</h2>
 <!--<p>ANSWER</p>-->
@@ -46,7 +46,7 @@
 <h2>2. How does ":root" contribute to the customization of the game?</h2>
 <!--<p>ANSWER</p>-->
 <h2>3. Write 2-3 sentences about how the use of HTML, JavaScript, and CSS creates the final product.</h2>
-<!--<p>ANSWER</p>-->
+<p>HTML, CSS, and JavaScript can all be used to make one coherent project that looks nice and is functional. HTML can be used for the layout of the project while CSS can be used for the colors and styling of the page, these two work together to make a page look nice. Then JavaScript can be used so that when an HTML button is clicked, a JavaScript function starts.</p>
 
 
 </div>

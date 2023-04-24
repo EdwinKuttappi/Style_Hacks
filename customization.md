@@ -16,7 +16,7 @@
               <img src="images/profile.png" alt="profile">
             </picture>
             <div class="content">
-              <p class="detail">Coding Profile</p>
+              <p class="detail">Edwin's Coding Profile</p>
                 <h1>Edwin Abraham</h1>
               <p>
                 A High School Student who is currently a Junior at Del Norte High School and loves to learn about the latest and upcoming technologies
