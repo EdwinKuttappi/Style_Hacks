@@ -17,11 +17,11 @@
             </picture>
             <div class="content">
               <p class="detail">Coding Profile</p>
-                <h1>NAME</h1>
+                <h1>Edwin Abraham</h1>
               <p>
-                Highschool student who has been coding for 3 years.
+                A High School Student who is currently a Junior at Del Norte High School and loves to learn about the latest and upcoming technologies
               </p>
-              <a href="https://pages.github.com/" class="button"></a>
+              <a href="https://github.com/EdwinKuttappi.com/" class="button"></a>
             </div>
           </article>
         </main>
