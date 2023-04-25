@@ -21,7 +21,7 @@
               <p>
                 A High School Student who is currently a Junior at Del Norte High School and loves to learn about the latest and upcoming technologies
               </p>
-              <a href="https://github.com/EdwinKuttappi.com/" class="button"></a>
+              <a href="https://github.com/EdwinKuttappi.com/" class="button">Github Profile</a>
             </div>
           </article>
         </main>

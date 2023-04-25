@@ -18,7 +18,7 @@ body {
 }
 
 h1 {
-    color: hsl(284, 100%, 65%);
+    color: hsl(115, 88%, 53%);
     font-size: 2rem;
     font-family: var(--font-family-secondary);
     line-height: 1;
@@ -35,11 +35,13 @@ h1 {
 }
 
 .profile {
-    background-color: hsl(0, 0%, 100%);
+    background-color: hsla(143, 83%, 45%, 0.1);
     border-radius: 4%;
     overflow: hidden;
     display: grid;
     max-width: 600px;
+    border-color: red;
+    border-radius: 2px;
 }
 @media (min-width: 600px) {
     .profile {
@@ -53,6 +55,7 @@ h1 {
 
 .detail {
     letter-spacing: 5px;
+    color: red;
 }
 
 p {
@@ -60,27 +63,30 @@ p {
     font-family: var(--font-family-primary);
     font-weight: var(--font-weight-bold);
     color: hsl(308, 67%, 56%);
+    text-shadow: 2px 2px 5px yellowgreen;
 }
 
 .button{
     display: inline-block;
     text-decoration: none;
-    color: #f00808;
+    color: rgb(225, 25, 25);
     border: 1px solid #6f0505;
     padding: 12px 34px;
     font-size: 13px;
     background: transparent;
     position: relative;
     cursor: pointer;
+    text-align: center;
+    font-size: 15px;
  }
  /*when the inv-btn is hovered by the cursor then there will be a different color, this is similar to the underline of the cta buttons*/
  .button:hover{
-    border: 1px solid rgb(77, 66, 68);
-    background: rgb(77, 66, 68);
+    border: 1px solid rgb(231, 242, 20);
+    border-radius: 15px;
+    background: rgb(152, 225, 25);
     transition: 1s;
+    color: blue;
  }
-
-
 /*Box Size*/
   *,
   *::before,
