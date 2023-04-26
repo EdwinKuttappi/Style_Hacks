@@ -1,13 +1,16 @@
 *{
     background: red;
+    color: red;
 }
 
 div{
     background: red;
+    color: red;
 }
 
 li{
     background: red;
+    color: red;
 }
 
 span{
@@ -19,7 +22,8 @@ span{
 }
 
 #id{
-    background: blue;
+    background: rgb(21, 145, 32);
+    color: red;
 }
 
 /*only div with .class will have green*/
@@ -32,7 +36,7 @@ div.class{
 
 /*will show up before or after the div*/
 div.red::before{
-    content: 'Before',
+    content: 'Before';
     background: blueviolet;
 }
 

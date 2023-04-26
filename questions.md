@@ -42,7 +42,7 @@
 <h1>JavaScript</h1>
 
 <h2>1. What are examples of selection, iteration, and sequencing in the snake game?</h2>
-<!--<p>ANSWER</p>-->
+<p>Some examples of Selection in the snake game are when if statements are used to see if the snake is touching the border. The point of this is to see if the snake needs to move, the code says if (snake.x < 0), so the condition is checked to see if it is true or false. For Iter</p>
 <h2>2. How does ":root" contribute to the customization of the game?</h2>
 <!--<p>ANSWER</p>-->
 <h2>3. Write 2-3 sentences about how the use of HTML, JavaScript, and CSS creates the final product.</h2>
