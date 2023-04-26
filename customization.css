@@ -120,6 +120,14 @@ p, h1, h2, h3, h4, h5, h6
 {
 overflow-wrap: break-word;
 }
+.image {
+    width: auto;
+    height: auto;
+    transition: transform 1s ease;
+}
+.image:hover {
+    transform: rotate(360deg);
+}
 
 
 

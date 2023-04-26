@@ -12,8 +12,8 @@
         <main>
           <article class="profile">
             <picture class="profile-img">
-              <source srcset="images/profile.png" media="(min-width: 600px)">
-              <img src="images/profile.png" alt="profile">
+              <source srcset="images/Fridge18.JPG" media="(min-width: 600px)">
+              <img src="images/Fridge18.jpg" alt="profile" class="image">
             </picture>
             <div class="content">
               <p class="detail">Edwin's Coding Profile</p>
@@ -21,7 +21,7 @@
               <p>
                 A High School Student who is currently a Junior at Del Norte High School and loves to learn about the latest and upcoming technologies
               </p>
-              <a href="https://github.com/EdwinKuttappi.com/" class="button">Github Profile</a>
+              <a href="https://github.com/EdwinKuttappi/" class="button">Github Profile</a>
             </div>
           </article>
         </main>
