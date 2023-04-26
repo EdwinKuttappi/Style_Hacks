@@ -13,6 +13,8 @@
 <button id="btn_stop" >Stop Snake Game</button>
 <p id="end_msg"></p>
 <canvas width="400" height="400" id="game"></canvas>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src = "/images/20230426_004942.jpg" class="center">
 <script>
 var canvas = document.getElementById('game');
 var context = canvas.getContext('2d');
@@ -146,6 +148,26 @@ document.addEventListener('keydown', function(e) {
     snake.dy = grid;
     snake.dx = 0;
   }
+  // // W Key
+  // else if (e.which === 87 && snake.dy === 0) {
+  //   snake.dy = grid;
+  //   snake.dx = 0;
+  // }
+  // // A Key
+  //   else if (e.which === 65 && snake.dy === 0) {
+  //   snake.dy = grid;
+  //   snake.dx = 0;
+  // }
+  // // S Key
+  // else if (e.which === 83 && snake.dy === 0) {
+  //   snake.dy = grid;
+  //   snake.dx = 0;
+  // }
+  // // D Key
+  // else if (e.which === 68 && snake.dy === 0) {
+  //   snake.dy = grid;
+  //   snake.dx = 0;
+  // }
 });
 // start the game
 requestAnimationFrame(loop);
